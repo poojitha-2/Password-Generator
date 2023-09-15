@@ -4,7 +4,7 @@ This is a simple password generator created using React. It allows you to genera
 ## Features
 Generates a random password based on user-defined criteria:
 
--> Length (between 4 and 20 characters)
+-> Length (between 8 and 15 characters)
 
 -> Character types (lowercase letters, uppercase letters, numbers, and special characters)
 
