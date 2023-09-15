@@ -25,4 +25,4 @@ To run this application locally, you must have Node.js and npm installed on your
 To use the password generator, simply adjust the length and requirements of your desired password using the input fields and checkboxes. Then, click the "Generate Password" button to create a new password. You can copy the generated password to your clipboard by clicking the "Copy" button.
 
 ## Demo
-Live demo of this project is available at 
+Live demo of this project is available at https://poojitha-2.github.io/Password-Generator/
